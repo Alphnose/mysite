@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![avatar](gintama.JPG)
+![head](avenager.jpg)
 
 # Alphnose Test
 
